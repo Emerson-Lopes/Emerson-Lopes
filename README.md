@@ -1,7 +1,7 @@
 #### Olá, bem-vindo ao meu GitHub! Eu sou o Emerson Lopes, estudante de Front-end..
 
 - 🔭 Atualmente trabalho como Técnico de Refrigeração e estou em mudança de carreira para Desenvolvedor Front-End
-- 🌱 Meu foco de estudos agora esta sendo JavaScript
+- 🌱 Meu foco de estudos agora esta sendo Banco de Dados
 - 👯 Contato de e-mail: hadesh123lopes@gmail.com
 
 ## 
